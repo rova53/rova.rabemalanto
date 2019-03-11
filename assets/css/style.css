@@ -1,0 +1,24 @@
+.gris{
+    background:#ccc;
+    width:150px;
+    float: right;
+}
+
+.addImage:hover{
+    opacity: 0.5;
+}
+.container{
+    max-width: calc(100% - 200px);
+    float: left;
+}
+.delete{
+    position: relative;
+right: -115px;
+top: -50px;
+color: red;
+}
+
+.col-fix{
+    width: 105px;
+    height: 105px;
+}
